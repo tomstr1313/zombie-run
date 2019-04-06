@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{08315202-819B-74DE-E907-1AC8D9AF816A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerDeathSound.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerDeathSound.cs" Line="29" Column="30" />
+      <File FileName="Assets/Scripts/Weapon.cs" Line="22" Column="46" />
+      <File FileName="Assets/Scripts/HealthScript.cs" Line="15" Column="33" />
+      <File FileName="Assets/Scripts/WeaponFire.cs" Line="32" Column="49" />
+      <File FileName="Assets/Scripts/InputState.cs" Line="25" Column="40" />
+      <File FileName="Assets/Scripts/PlayerAnimationManager.cs" Line="10" Column="4" />
+      <File FileName="Assets/Scripts/TouchFunctions.cs" Line="1" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

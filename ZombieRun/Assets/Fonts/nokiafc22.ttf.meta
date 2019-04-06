@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c857f039a4e534c0bada502cfad83894
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nokia Cellphone FC
+  fontNames:
+  - Nokia Cellphone FC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

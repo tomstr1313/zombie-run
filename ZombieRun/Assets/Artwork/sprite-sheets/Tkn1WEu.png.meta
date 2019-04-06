@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: bec44401e50f8a94bb9585476a1942b3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tkn1WEu_0
+    21300002: Tkn1WEu_1
+    21300004: Tkn1WEu_2
+    21300006: Tkn1WEu_3
+    21300008: Tkn1WEu_4
+    21300010: Tkn1WEu_5
+    21300012: Tkn1WEu_6
+    21300014: Tkn1WEu_7
+    21300016: Tkn1WEu_8
+    21300018: Tkn1WEu_9
+    21300020: Tkn1WEu_10
+    21300022: Tkn1WEu_11
+    21300024: Tkn1WEu_12
+    21300026: Tkn1WEu_13
+    21300028: Tkn1WEu_14
+    21300030: Tkn1WEu_15
+    21300032: Tkn1WEu_16
+    21300034: Tkn1WEu_17
+    21300036: Tkn1WEu_18
+    21300038: Tkn1WEu_19
+    21300040: Tkn1WEu_20
+    21300042: Tkn1WEu_21
+    21300044: Tkn1WEu_22
+    21300046: Tkn1WEu_23
+    21300048: Tkn1WEu_24
+    21300050: Tkn1WEu_25
+    21300052: Tkn1WEu_26
+    21300054: Tkn1WEu_27
+    21300056: Tkn1WEu_28
+    21300058: Tkn1WEu_29
+    21300060: Tkn1WEu_30
+    21300062: Tkn1WEu_31
+    21300064: Tkn1WEu_32
+    21300066: Tkn1WEu_33
+    21300068: Tkn1WEu_34
+    21300070: Tkn1WEu_35
+    21300072: Tkn1WEu_36
+    21300074: Tkn1WEu_37
+    21300076: Tkn1WEu_38
+    21300078: Tkn1WEu_39
+    21300080: Tkn1WEu_40
+    21300082: Tkn1WEu_41
+    21300084: Tkn1WEu_42
+    21300086: Tkn1WEu_43
+    21300088: Tkn1WEu_44
+    21300090: Tkn1WEu_45
+    21300092: Tkn1WEu_46
+    21300094: Tkn1WEu_47
+    21300096: Tkn1WEu_48
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tkn1WEu_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 377
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eabfe66a3fce84bab6a50d4f4167d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 377
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc131ee4ca77384591f896f4a1ca7a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 377
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44df72f019da7e4e96be5988bec0649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 377
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73521452d695114382562e595343562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 377
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688ae774a5ff164f9a64970ac8a8df0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 377
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd54a76cee05d64ab8e0309574f915e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 377
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b694099754fd4f95bc2b50a92b869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 315
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ffaa97be386ff47a7031ecb8cfd01a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 315
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e859c8f55da0f4cb203e38f625f357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 315
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383595af54e572f4fb851239acd01a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 315
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da28ed55e81c4d940acbcc48c35e5fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 315
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54f57c146cb1a348b53b9d3ffffe6c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 315
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a70baf8e611174d853cfdbd0da108a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 315
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e9c21f102ed13459a7c56837320390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 59
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fca2829968436479a1677e569707b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 256
+        width: 57
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6836f0f7679984197581596a72b00a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 256
+        width: 60
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f0a7c4ff0f79c4dbf50343a7f7f726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 256
+        width: 58
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b467e24d5d28d5d4093d77178f4f57d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 255
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d299cbdd2e4e54db640e781e247e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_19
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 255
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69788cb5db02244920485bff05ed3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 255
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189abe82e5a8a9043901dde0983322a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 199
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121b161fbcf40a44967a8b457869a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 199
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6a414a15241c4eb39972c5d5c3e9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 199
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdcbc7482641dd46ab5e43f62b11162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 199
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6060690e2c96419c3562914731175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 199
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86dbcf282218ee4b8b025c849ac363a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 199
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab157910c45ed7744a3f528eb3ed4e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf773d12995111849a1ba6ac3c7d4f61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 142
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e588eb3f5ebf849b0162f0a394415e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 142
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ece59027965d458866efe11d7cd9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 142
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b943f374e55b7a43986ba109df1bb20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 142
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89fa62d3338d8a42848f4d413578e95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 142
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f115fa6ebd6f684ca1f74659383cb8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 142
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc2a679d2a44834babac242c964a54e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_34
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 142
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d3b401cd5d0bb48aeed24ae064ccf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 71
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac5dd4610229fc478157d356239a130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 67
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f448c15d102cf4890f02fbfcce57cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5974e39987ed6e440bd718fc088394b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369212ba7ae89be4394347a4943ddd49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 51
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b31e3446902a4e98ecbea57d58f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_40
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 71
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d928e4083440d4ca3bd67f5d893d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 71
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d23ea33cb80b4e9601dfdf802193e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 71
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ada47755ef5cc48b57c5fd4514e83a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd7362907fb8e499c9f3382f3d5eae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28a09467d8fdab4d9ca6f72d4817332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d131e5e2c9bf418a532facbc3c2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 12
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2743f70b1c7affe4492ea45d3f895999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 12
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca327ebaf9a4a644bcba865a85539e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tkn1WEu_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 12
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc00b137e261844a506aabd1fafc4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d3c26b4468cb8eb4f8c9e9dad059441a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
