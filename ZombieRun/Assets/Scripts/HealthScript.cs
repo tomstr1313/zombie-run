@@ -4,15 +4,20 @@ using UnityEngine;
 
 public class HealthScript : MonoBehaviour
 {
-    
-    public float health = 100f;
 
-  public void RemoveHealth(float amount)
+    public int health = 100;
+    public bool hasDied;
+
+    private void Start()
     {
-        amount -= health;
-        if (health <= 0)
+        hasDied = false;
+    }
+
+    private void Update()
+    {
+        if (gameObject.transform.position.y < -7)
         {
-            Destroy(gameObject);
+            hasDied = true;
         }
     }
 }

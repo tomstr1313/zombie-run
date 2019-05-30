@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 2130066556903561754}
   - component: {fileID: 4953908703616306331}
   - component: {fileID: 4105764314871807874}
-  - component: {fileID: 112980492925099345}
+  - component: {fileID: 7504078648972987901}
   m_Layer: 0
   m_Name: Zombie
   m_TagString: Zombie
@@ -306,7 +306,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 3a984e111c1104b848fcaceb47186062, type: 3}
   - {fileID: 8300000, guid: 9f7d1336d016a4e769a12d041a2dbad6, type: 3}
   - {fileID: 8300000, guid: 93783a88e57714d5f8a82fcf85611d0f, type: 3}
---- !u!114 &112980492925099345
+--- !u!114 &7504078648972987901
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -315,7 +315,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 3961688943926198404}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 944cbc06a87764106873a7e793ef0085, type: 3}
+  m_Script: {fileID: 11500000, guid: 1ea16aa7b0d25244292a6158a32225c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
+  deathEffect: {fileID: 7092051003153026272, guid: dc82d5240f9c8b3478d9b94b1c17bae1,
+    type: 3}
